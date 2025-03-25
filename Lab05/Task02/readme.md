@@ -24,7 +24,7 @@ Wolne miejsce
 Nie ma takiego miejsca!
 ```
 
-# Zadanie 2
+# Zadanie 4
 Zdefniuj metodę `UnPark(int n)`, która na podstawie nr miejsca parkingowego zwolni go, 
 jeśli jest zajętę (metoda wtedy zwraca `true`). Próba wyparkowania z miejsca pustego lub nieistniejącego 
 powoduje zwrócenie z metody `false`.
