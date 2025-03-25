@@ -4,7 +4,7 @@ public partial class Parking
 {
     private string?[] _places = new string[100];
     private int _freePlacesCount;
-    public string? this[int i] => _places[i - 1] == null ? "Wolne miejsce" : _places[i - 1];
+   
 
     public Parking()
     {
